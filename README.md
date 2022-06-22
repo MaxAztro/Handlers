@@ -3,7 +3,7 @@ Handlers de uso especifico para Discord
 Debes instalar las siguientes dependencias!
 
 - @discordjs/builders
-- -@discordjs/rest
+- @discordjs/rest
 - discord.js
 - dotenv
 - fs
